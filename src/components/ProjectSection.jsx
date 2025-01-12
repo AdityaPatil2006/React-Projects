@@ -51,8 +51,8 @@ const ProjectSection = () => {
       description:
         'A React-based website showcasing my React Projects. This site includes a variety of interactive and dynamic web applications, each demonstrating different React features and concepts such as state management, hooks, and routing.',
       image: reactProjects,
-      projectLink: 'https://tic-tac-toe-react-web.netlify.app/',
-      codeLink: 'https://github.com/AdityaPatil2006/Tic-Tac-Toe-React',
+      projectLink: 'https://react-projects-pi-ivory.vercel.app/',
+      codeLink: 'https://github.com/AdityaPatil2006/React-Projects',
     },
     {
       title: "Coder's Coffee",
